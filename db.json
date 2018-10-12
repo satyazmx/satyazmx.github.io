@@ -1,0 +1,34 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "satya",
+      "password": "admin"
+    },
+    {
+      "id": 2,
+      "name": "saiRam",
+      "password": "admin"
+    },
+    {
+      "id": 3,
+      "name": "om",
+      "password": "admin"
+    },
+    {
+      "name": "sudhanshu",
+      "password": "admin",
+      "id": 4
+    },
+    {
+      "name": "sudhanshu",
+      "password": "admin",
+      "id": 5
+    },
+    {
+      "name": "vivek",
+      "password": "admin",
+      "id": 6
+    }
+  ]
+}
